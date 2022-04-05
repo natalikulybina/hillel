@@ -82,7 +82,7 @@
     height: 147px;
     margin-left: 690px;
     margin-top: 112px;
-    
+
 }
 
 .about__me h2 {
@@ -175,37 +175,37 @@
 }
 
 .video {
-margin-left: 405px;
-margin-top: 57px;
-border: 0px;
-margin-bottom: 0px;
+    margin-left: 405px;
+    margin-top: 57px;
+    border: 0px;
+    margin-bottom: 0px;
 }
 
 .name {
-display: inline-block;
-width: 1920px;
-height: 151px;
-margin-left: 0px;
-background-color: #34547A;
-font-family: 'Roboto';
-color: #FFFFFF;
+    display: inline-block;
+    width: 1920px;
+    height: 151px;
+    margin-left: 0px;
+    background-color: #34547A;
+    font-family: 'Roboto';
+    color: #FFFFFF;
 }
 
 .name h3 {
-margin-left: 406px;
-margin-top: 50px;
-font-weight: 500;
-font-size: 21px;
-line-height: 25px;
+    margin-left: 406px;
+    margin-top: 50px;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
 
 }
 
 .name p {
-width: 193px;
-height: 12px;
-margin-left: 406px;
-margin-top: 20px;
-font-weight: 400;
-font-size: 13px;
-line-height: 21px;
+    width: 193px;
+    height: 12px;
+    margin-left: 406px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
 }
